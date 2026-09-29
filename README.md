@@ -36,19 +36,10 @@
 
 ## Achievements and activity
 
-<a href="https://github.com/Izzo047">
-  <img src="https://github-profile-trophy.vercel.app/?username=Izzo047&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub achievements">
-</a>
+[![GitHub achievements](https://github-profile-trophy.vercel.app/?username=Izzo047&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/Izzo047)
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Izzo047&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izzo047&layout=compact&hide_border=true&theme=default" alt="Top languages">
-</p>
+[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Izzo047&show_icons=true&hide_border=true&theme=default&rank_icon=github)](https://github.com/Izzo047)[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izzo047&layout=compact&hide_border=true&theme=default)](https://github.com/Izzo047?tab=repositories)
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=Izzo047&theme=default&hide_border=true" alt="GitHub contribution streak">
-</p>
+[![GitHub contribution streak](https://streak-stats.demolab.com?user=Izzo047&theme=default&hide_border=true)](https://github.com/Izzo047)
 
-<div align="center">
-  <a href="https://github.com/Izzo047"><img src="https://komarev.com/ghpvc/?username=Izzo047&style=flat-square&color=2f855a" alt="Profile views"></a>
-</div>
+[![Profile views](https://komarev.com/ghpvc/?username=Izzo047&style=flat-square&color=2f855a)](https://github.com/Izzo047)
