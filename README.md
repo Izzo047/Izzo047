@@ -36,7 +36,7 @@
 
 ## Achievements and activity
 
-[![GitHub achievements](https://github-profile-trophy.vercel.app/?username=Izzo047&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/Izzo047)
+[![GitHub achievements](https://trophy.ryglcloud.net/?username=Izzo047&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/Izzo047)
 
 [![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Izzo047&show_icons=true&hide_border=true&theme=default&rank_icon=github)](https://github.com/Izzo047)[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izzo047&layout=compact&hide_border=true&theme=default)](https://github.com/Izzo047?tab=repositories)
 
