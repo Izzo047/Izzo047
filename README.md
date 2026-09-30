@@ -28,27 +28,39 @@
 
 ## Featured projects
 
-| Project | What it is |
-| --- | --- |
-| [Weatherly](https://github.com/Izzo047/weatherly-dashboard) | A live React/Vite weather dashboard with city autocomplete, forecasts, air quality, pollen, maps, radar, dark mode, and GitHub Pages deployment. <br><a href="https://github.com/Izzo047/weatherly-dashboard/actions/workflows/deploy.yml"><img src="https://github.com/Izzo047/weatherly-dashboard/actions/workflows/deploy.yml/badge.svg" alt="Weatherly deployment status"></a> <a href="https://github.com/Izzo047/weatherly-dashboard/releases/tag/v0.3.0"><img src="https://img.shields.io/github/v/release/Izzo047/weatherly-dashboard?style=flat-square" alt="Weatherly release"></a> <a href="https://github.com/Izzo047/weatherly-dashboard/stargazers"><img src="https://img.shields.io/github/stars/Izzo047/weatherly-dashboard?style=flat-square" alt="Weatherly stars"></a> <img src="https://img.shields.io/github/languages/top/Izzo047/weatherly-dashboard?style=flat-square" alt="Weatherly primary language"> |
-| [ORCA](https://github.com/Izzo047/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents) | A Flask-based marine ecosystem intelligence and decision-support platform with AI workflows, geospatial views, monitoring, and safety alerts. <br><a href="https://github.com/Izzo047/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents/stargazers"><img src="https://img.shields.io/github/stars/Izzo047/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents?style=flat-square" alt="ORCA stars"></a> <img src="https://img.shields.io/github/languages/top/Izzo047/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents?style=flat-square" alt="ORCA primary language"> |
-| [Axmol](https://github.com/Izzo047/axmol) | Open-source C++/Lua game-engine work for 2D and 3D experiences across desktop, mobile, WebAssembly, and Xbox UWP. <br><a href="https://github.com/Izzo047/axmol/stargazers"><img src="https://img.shields.io/github/stars/Izzo047/axmol?style=flat-square" alt="Axmol stars"></a> <img src="https://img.shields.io/github/languages/top/Izzo047/axmol?style=flat-square" alt="Axmol primary language"> |
-
-## Achievements and activity
-
 <table>
   <tr>
-    <td valign="top" width="58%">
-      <a href="https://github.com/Izzo047"><img src="https://github-readme-stats.vercel.app/api?username=Izzo047&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub statistics"></a>
-      <br>
-      <a href="https://github.com/Izzo047?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izzo047&layout=compact&hide_border=true&theme=default" alt="Top languages"></a>
-      <br>
-      <a href="https://github.com/Izzo047"><img src="https://streak-stats.demolab.com?user=Izzo047&theme=default&hide_border=true" alt="GitHub contribution streak"></a>
+    <td valign="top" width="33%">
+      <h3><a href="https://github.com/Izzo047/weatherly-dashboard">Weatherly</a></h3>
+      <p>Live React/Vite weather dashboard with forecasts, maps, radar, air quality, and GitHub Pages deployment.</p>
+      <a href="https://github.com/Izzo047/weatherly-dashboard/actions/workflows/deploy.yml"><img src="https://github.com/Izzo047/weatherly-dashboard/actions/workflows/deploy.yml/badge.svg" alt="Weatherly deployment status"></a>
+      <a href="https://github.com/Izzo047/weatherly-dashboard/stargazers"><img src="https://img.shields.io/github/stars/Izzo047/weatherly-dashboard?style=flat-square" alt="Weatherly stars"></a>
+      <img src="https://img.shields.io/github/languages/top/Izzo047/weatherly-dashboard?style=flat-square" alt="Weatherly primary language">
     </td>
-    <td valign="top" width="42%" align="center">
-      <a href="https://github.com/Izzo047"><img src="https://trophy.ryglcloud.net/?username=Izzo047&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2" alt="GitHub achievements"></a>
+    <td valign="top" width="33%">
+      <h3><a href="https://github.com/Izzo047/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents">ORCA</a></h3>
+      <p>Flask-based marine ecosystem intelligence platform with AI workflows, geospatial views, monitoring, and safety alerts.</p>
+      <a href="https://github.com/Izzo047/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents/stargazers"><img src="https://img.shields.io/github/stars/Izzo047/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents?style=flat-square" alt="ORCA stars"></a>
+      <img src="https://img.shields.io/github/languages/top/Izzo047/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents?style=flat-square" alt="ORCA primary language">
+    </td>
+    <td valign="top" width="33%">
+      <h3><a href="https://github.com/Izzo047/axmol">Axmol</a></h3>
+      <p>Open-source C++/Lua game-engine work for 2D and 3D experiences across desktop, mobile, WebAssembly, and Xbox UWP.</p>
+      <a href="https://github.com/Izzo047/axmol/stargazers"><img src="https://img.shields.io/github/stars/Izzo047/axmol?style=flat-square" alt="Axmol stars"></a>
+      <img src="https://img.shields.io/github/languages/top/Izzo047/axmol?style=flat-square" alt="Axmol primary language">
     </td>
   </tr>
 </table>
+
+## Achievements and activity
+
+<div align="center">
+  <a href="https://github.com/Izzo047"><img src="https://trophy.ryglcloud.net/?username=Izzo047&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub achievements"></a>
+  <br><br>
+  <a href="https://github.com/Izzo047"><img src="https://github-readme-stats.vercel.app/api?username=Izzo047&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub statistics"></a>
+  <a href="https://github.com/Izzo047?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izzo047&layout=compact&hide_border=true&theme=default" alt="Top languages"></a>
+  <br>
+  <a href="https://github.com/Izzo047"><img src="https://streak-stats.demolab.com?user=Izzo047&theme=default&hide_border=true" alt="GitHub contribution streak"></a>
+</div>
 
 [![Profile views](https://komarev.com/ghpvc/?username=Izzo047&style=flat-square&color=2f855a)](https://github.com/Izzo047)
