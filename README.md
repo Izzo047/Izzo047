@@ -36,10 +36,19 @@
 
 ## Achievements and activity
 
-[![GitHub achievements](https://trophy.ryglcloud.net/?username=Izzo047&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/Izzo047)
-
-[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Izzo047&show_icons=true&hide_border=true&theme=default&rank_icon=github)](https://github.com/Izzo047)[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izzo047&layout=compact&hide_border=true&theme=default)](https://github.com/Izzo047?tab=repositories)
-
-[![GitHub contribution streak](https://streak-stats.demolab.com?user=Izzo047&theme=default&hide_border=true)](https://github.com/Izzo047)
+<table>
+  <tr>
+    <td valign="top" width="58%">
+      <a href="https://github.com/Izzo047"><img src="https://github-readme-stats.vercel.app/api?username=Izzo047&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub statistics"></a>
+      <br>
+      <a href="https://github.com/Izzo047?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izzo047&layout=compact&hide_border=true&theme=default" alt="Top languages"></a>
+      <br>
+      <a href="https://github.com/Izzo047"><img src="https://streak-stats.demolab.com?user=Izzo047&theme=default&hide_border=true" alt="GitHub contribution streak"></a>
+    </td>
+    <td valign="top" width="42%" align="center">
+      <a href="https://github.com/Izzo047"><img src="https://trophy.ryglcloud.net/?username=Izzo047&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2" alt="GitHub achievements"></a>
+    </td>
+  </tr>
+</table>
 
 [![Profile views](https://komarev.com/ghpvc/?username=Izzo047&style=flat-square&color=2f855a)](https://github.com/Izzo047)
