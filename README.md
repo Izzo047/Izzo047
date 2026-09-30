@@ -30,20 +30,9 @@
 
 | Project | What it is |
 | --- | --- |
-| [Weatherly](https://github.com/Izzo047/weatherly-dashboard) | A live React/Vite weather dashboard with city autocomplete, forecasts, air quality, pollen, maps, radar, dark mode, and GitHub Pages deployment. |
-| [ORCA](https://github.com/Izzo047/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents) | A Flask-based marine ecosystem intelligence and decision-support platform with AI workflows, geospatial views, monitoring, and safety alerts. |
-| [Axmol](https://github.com/Izzo047/axmol) | Open-source C++/Lua game-engine work for 2D and 3D experiences across desktop, mobile, WebAssembly, and Xbox UWP. |
-
-### Showcase badges
-
-**Weatherly**
-[![Weatherly deployment status](https://github.com/Izzo047/weatherly-dashboard/actions/workflows/deploy.yml/badge.svg)](https://github.com/Izzo047/weatherly-dashboard/actions/workflows/deploy.yml) [![Weatherly release](https://img.shields.io/github/v/release/Izzo047/weatherly-dashboard?style=flat-square)](https://github.com/Izzo047/weatherly-dashboard/releases/tag/v0.3.0) [![Weatherly stars](https://img.shields.io/github/stars/Izzo047/weatherly-dashboard?style=flat-square)](https://github.com/Izzo047/weatherly-dashboard/stargazers) ![Weatherly primary language](https://img.shields.io/github/languages/top/Izzo047/weatherly-dashboard?style=flat-square)
-
-**ORCA**
-[![ORCA stars](https://img.shields.io/github/stars/Izzo047/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents?style=flat-square)](https://github.com/Izzo047/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents/stargazers) ![ORCA primary language](https://img.shields.io/github/languages/top/Izzo047/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents?style=flat-square)
-
-**Axmol**
-[![Axmol stars](https://img.shields.io/github/stars/Izzo047/axmol?style=flat-square)](https://github.com/Izzo047/axmol/stargazers) ![Axmol primary language](https://img.shields.io/github/languages/top/Izzo047/axmol?style=flat-square)
+| [Weatherly](https://github.com/Izzo047/weatherly-dashboard) | A live React/Vite weather dashboard with city autocomplete, forecasts, air quality, pollen, maps, radar, dark mode, and GitHub Pages deployment. <br><a href="https://github.com/Izzo047/weatherly-dashboard/actions/workflows/deploy.yml"><img src="https://github.com/Izzo047/weatherly-dashboard/actions/workflows/deploy.yml/badge.svg" alt="Weatherly deployment status"></a> <a href="https://github.com/Izzo047/weatherly-dashboard/releases/tag/v0.3.0"><img src="https://img.shields.io/github/v/release/Izzo047/weatherly-dashboard?style=flat-square" alt="Weatherly release"></a> <a href="https://github.com/Izzo047/weatherly-dashboard/stargazers"><img src="https://img.shields.io/github/stars/Izzo047/weatherly-dashboard?style=flat-square" alt="Weatherly stars"></a> <img src="https://img.shields.io/github/languages/top/Izzo047/weatherly-dashboard?style=flat-square" alt="Weatherly primary language"> |
+| [ORCA](https://github.com/Izzo047/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents) | A Flask-based marine ecosystem intelligence and decision-support platform with AI workflows, geospatial views, monitoring, and safety alerts. <br><a href="https://github.com/Izzo047/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents/stargazers"><img src="https://img.shields.io/github/stars/Izzo047/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents?style=flat-square" alt="ORCA stars"></a> <img src="https://img.shields.io/github/languages/top/Izzo047/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents?style=flat-square" alt="ORCA primary language"> |
+| [Axmol](https://github.com/Izzo047/axmol) | Open-source C++/Lua game-engine work for 2D and 3D experiences across desktop, mobile, WebAssembly, and Xbox UWP. <br><a href="https://github.com/Izzo047/axmol/stargazers"><img src="https://img.shields.io/github/stars/Izzo047/axmol?style=flat-square" alt="Axmol stars"></a> <img src="https://img.shields.io/github/languages/top/Izzo047/axmol?style=flat-square" alt="Axmol primary language"> |
 
 ## Achievements and activity
 
